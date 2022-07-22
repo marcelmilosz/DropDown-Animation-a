@@ -2,6 +2,7 @@
 Drop down animation using JS. Random project for fun.
 
 Click button to see opening animation 
+
 Click again to see closing animation 🤯
 
 
